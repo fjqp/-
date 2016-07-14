@@ -4,4 +4,4 @@
 #### 其他
 这个项目是本人用来练手的，业余时间实在闲得无聊。<br>
 如果要联系的话，请联系这个邮箱.<br>
-<font color=pink>fjqp@outlook.com<font>
+fjqp@outlook.com
